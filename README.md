@@ -71,7 +71,7 @@ Rows: 7057; Columns: 15
 
 ---
 
-## 📊 **Usage & Visualization**
+## 📊 **Data Visualization**
 The analysis is performed using **Power BI**.  
 [View Dashboard Report (Power BI PDF)](dashboard_cac_ltv_analysis.pdf)
 Report pages include:
