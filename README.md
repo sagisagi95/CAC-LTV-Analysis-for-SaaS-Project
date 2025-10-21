@@ -1,6 +1,6 @@
 # [Power BI] CAC–LTV Model Analysis for SaaS Business
 
-##📝**Project Summary**
+## 📝 **Project Summary**
 This project analyzes a synthetic dataset modeling **Customer Acquisition Cost (CAC)**, **Lifetime Value (LTV)**, and **retention dynamics** for a fictional SaaS business operating across six global regions.  
 The analysis explores:
 - CAC calculations by acquisition channel  
@@ -15,13 +15,13 @@ Visualizations include KPI cards, column & line charts, cohort heatmaps, and ARP
 
 ---
 
-##🎯**Key Objective**
+## 🎯 **Key Objective**
 - Quantify **LTV** and **LTV:CAC ratio**  
 - Evaluate **customer acquisition efficiency** and **cohort retention patterns** to support data-driven business decisions
 
 ---
 
-##⚠️**About the CAC–LTV Model**
+## ⚠️ **About the CAC–LTV Model**
 **Customer Lifetime Value (LTV)** estimates *the total revenue a customer generates over their relationship with a company*.  
 It takes into account the generated revenue per customer and the associated costs of acquiring and serving that customer.
 
@@ -41,14 +41,14 @@ LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 
 ---
 
-##❓**Business Questions**
+## ❓ **Business Questions**
 1. Which acquisition channels are cost-effective and bring in the most valuable customers (highest LTV)?  
 2. Which regions contribute the most **Revenue**, and how do ARPU and LTV differ by region?  
 3. How does user retention change over time, and where should we intervene to reduce churn?
 
 ---
 
-##🗂️**Dataset Overview**
+## 🗂️ **Dataset Overview**
 **Name:** CAC-LTV Model Analysis for SaaS Business Insights
 **Rows:** 7,057  **Columns:** 15  
 **Source:** https://www.kaggle.com/datasets/ameernassar/cac-ltv-model?select=cac_ltv_model.csv
@@ -74,7 +74,7 @@ LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 
 ---
 
-##📊**Usage & Visualization**
+## 📊 **Usage & Visualization**
 The analysis is performed using **Power BI**.  
 Report pages include:
 1. **Overview** — Total Revenue & MKT Spend, ARPU, LTV, LTV:CAC ratio
@@ -87,7 +87,7 @@ Report pages include:
 
 ---
 
-##⁉️**Key Insights Summary**
+## ⁉️ **Key Insights Summary**
 - **Organic Search** is the most cost-efficient channel (lowest CAC, highest LTV:CAC ratio).  
 - **North America & Europe** dominate revenue via scale; Prioritize scaling acquisition in **Africa & LatAm** with potential high-value customers
 - Healthy retention (churn ~5%), focus retention improvements on **months 2–4** (steepest churn drop) and **renewal months 6–9** for greatest LTV impact.
