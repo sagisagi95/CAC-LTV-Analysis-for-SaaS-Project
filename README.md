@@ -46,11 +46,10 @@ LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 
 ## 🗂️ **Dataset Overview**
 **Name:** CAC-LTV Model Analysis for SaaS Business Insights
-**Rows:** 7,057  **Columns:** 15  
 **Source:** https://www.kaggle.com/datasets/ameernassar/cac-ltv-model?select=cac_ltv_model.csv
 
 ### **Table Schema**
-
+Rows: 7057; Columns: 15
 | Column | Data Type | Description |
 |:--|:--|:--|
 | **year** | INT | Year of customer signup or activity. |
