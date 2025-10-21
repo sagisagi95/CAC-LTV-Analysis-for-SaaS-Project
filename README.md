@@ -19,8 +19,6 @@ Visualizations include KPI cards, column & line charts, cohort heatmaps, and ARP
 - Quantify **LTV** and **LTV:CAC ratio**  
 - Evaluate **customer acquisition efficiency** and **cohort retention patterns** to support data-driven business decisions
 
----
-
 ## ⚠️ **About the CAC–LTV Model**
 **Customer Lifetime Value (LTV)** estimates *the total revenue a customer generates over their relationship with a company*.  
 It takes into account the generated revenue per customer and the associated costs of acquiring and serving that customer.
@@ -38,8 +36,6 @@ LTV = (Average Revenue per User (ARPU) × Gross Margin %) / Average Churn Rate
 ```
 LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 ```
-
----
 
 ## ❓ **Business Questions**
 1. Which acquisition channels are cost-effective and bring in the most valuable customers (highest LTV)?  
@@ -76,6 +72,7 @@ LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 
 ## 📊 **Usage & Visualization**
 The analysis is performed using **Power BI**.  
+[View Dashboard Report (Power BI PDF)](docs/dashboard_cac_ltv_analysis.pdf)
 Report pages include:
 1. **Overview** — Total Revenue & MKT Spend, ARPU, LTV, LTV:CAC ratio
 2. **Acquisition Efficacy** — Spend allocation, CAC, Churn rate, Retention cohorts
@@ -87,11 +84,12 @@ Report pages include:
 
 ---
 
-## ⁉️ **Key Insights Summary**
+## 💡 **Key Insights Summary**
 - **Organic Search** is the most cost-efficient channel (lowest CAC, highest LTV:CAC ratio).  
 - **North America & Europe** dominate revenue via scale; Prioritize scaling acquisition in **Africa & LatAm** with potential high-value customers
 - Healthy retention (churn ~5%), focus retention improvements on **months 2–4** (steepest churn drop) and **renewal months 6–9** for greatest LTV impact.
 
-**See detailed analysis in Executive Summary.pdf**
+[View Detailed Analysis PDF](docs/Executive_Summary.pdf)
+
 ---
 
