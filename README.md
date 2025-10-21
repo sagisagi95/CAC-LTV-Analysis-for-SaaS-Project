@@ -72,7 +72,7 @@ LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 
 ## 📊 **Usage & Visualization**
 The analysis is performed using **Power BI**.  
-[View Dashboard Report (Power BI PDF)](docs/dashboard_cac_ltv_analysis.pdf)
+[View Dashboard Report (Power BI PDF)](dashboard_cac_ltv_analysis.pdf)
 Report pages include:
 1. **Overview** — Total Revenue & MKT Spend, ARPU, LTV, LTV:CAC ratio
 2. **Acquisition Efficacy** — Spend allocation, CAC, Churn rate, Retention cohorts
@@ -89,7 +89,7 @@ Report pages include:
 - **North America & Europe** dominate revenue via scale; Prioritize scaling acquisition in **Africa & LatAm** with potential high-value customers
 - Healthy retention (churn ~5%), focus retention improvements on **months 2–4** (steepest churn drop) and **renewal months 6–9** for greatest LTV impact.
 
-[View Detailed Analysis PDF](docs/Executive_Summary.pdf)
+[View Detailed Analysis PDF](Executive_Summary.pdf)
 
 ---
 
