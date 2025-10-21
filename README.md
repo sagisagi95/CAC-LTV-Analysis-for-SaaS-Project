@@ -88,7 +88,7 @@ Report pages include:
 - **North America & Europe** dominate revenue via scale; Prioritize scaling acquisition in **Africa & LatAm** with potential high-value customers
 - Healthy retention (churn ~5%), focus retention improvements on **months 2–4** (steepest churn drop) and **renewal months 6–9** for greatest LTV impact.
 
-[View Detailed Analysis PDF](ExecutiveSummary.pdf)
+[View Detailed Analysis PDF](Executive%20Summary.pdf)
 
 ---
 
