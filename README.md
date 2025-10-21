@@ -11,6 +11,8 @@ The analysis explores:
 
 Visualizations include KPI cards, column & line charts, cohort heatmaps, and ARPU matrix by region.
 
+Tools: Power BI with DAX measures
+
 > **Note:** This is a synthetic dataset. CAC values are lower than real-world benchmarks due to randomized marketing spend in a narrow range. In practice, CAC can be 3–10× higher, depending on industry, region, and product type.
 
 ---
