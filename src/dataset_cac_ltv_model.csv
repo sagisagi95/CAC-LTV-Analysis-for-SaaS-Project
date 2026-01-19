@@ -7055,4 +7055,5 @@ year,month,date,customer_id,acquisition_channel,signup_source,region,customer_ti
 2024,12,Dec-24,8054,meta_ads,mobile_app,Europe,Basic,70.16,0.2,62.56,0.87,0.0225,12,391.52
 2024,12,Dec-24,8055,google_ads,partner,North America,Basic,90.34,0.2,68.05,0.83,0.084,1,395.73
 2024,12,Dec-24,8056,meta_ads,web,APAC,Enterprise,324.44,0,307.26,0.8,0.0749,1,346.55
+
 2024,12,Dec-24,8057,google_ads,web,North America,Pro,198.2,0.1,161.55,0.86,0.0875,1,388.48
