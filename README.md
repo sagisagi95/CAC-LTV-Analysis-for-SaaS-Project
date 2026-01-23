@@ -48,6 +48,7 @@ LTV:CAC = Lifetime Value (LTV) ÷ Customer Acquisition Cost (CAC)
 
 ## 🗂️ **Dataset Overview**
 **Name:** CAC-LTV Model Analysis for SaaS Business Insights
+
 **Source:** https://www.kaggle.com/datasets/ameernassar/cac-ltv-model?select=cac_ltv_model.csv
 
 ### **Table Schema**
@@ -90,7 +91,7 @@ Report pages include:
 - **North America & Europe** dominate revenue via scale; Prioritize scaling acquisition in **Africa & LatAm** with potential high-value customers
 - Healthy retention (churn ~5%), focus retention improvements on **months 2–4** (steepest churn drop) and **renewal months 6–9** for greatest LTV impact.
 
-[View Detailed Analysis PDF](Executive%20Summary.pdf)
+[View Detailed Analysis PDF](docs/Executive%20Summary.pdf)
 
 ---
 
